@@ -3,11 +3,7 @@ import Home from "./Pages/Home"
 import MainRoutes from "./Routes"
 
 function App() {
-    return (
-        <Routes>
-            <Home />
-        </Routes>
-    )
+    return <MainRoutes />
 }
 
 export default App
